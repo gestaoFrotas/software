@@ -10,14 +10,14 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 4. [Funcionalidades](#funcionalidades)
 5. [Contribuições](#contribuições)
 6. [Licença](#licença)
----
+
 
 ## Instalação
 
----
+
 ## Uso
 
----
+
 ## Funcionalidades
 
 ### 1. Tela de Login
@@ -84,12 +84,12 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 #### Registrar Uso do Veículo:
 - Registrar o início e o fim do uso do veículo.
 - Inserir quilometragem inicial e final, além de data e hora de uso.
----
+
 ## Estrutura do Projeto
 
----
+
 ## Tecnologias Utilizadas
 
----
+
 ## Autores
 
