@@ -6,9 +6,9 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 ## Índice
 1. [Instalação](#instalação)
 2. [Uso](#uso)
-3. [Estrutura do Projeto](#estrutura-do-projeto)
-4. [Funcionalidades](#funcionalidades)
-5. [Contribuições](#contribuições)
+3. [Funcionalidades](#funcionalidades)
+4. [Estrutura do Projeto](#estrutura-do-projeto)
+5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
 6. [Autores](#autores)
 
 ## Instalação
@@ -88,6 +88,13 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 
 
 ## Tecnologias Utilizadas
+- React
+- Java
+- Spring Boot
+- Javascript
+- Typescript
+- Figma
+- MySql
 
 
 ## Autores
