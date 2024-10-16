@@ -1,4 +1,4 @@
-Readme
+
 # Movitech
 Movitech é um projeto fictício e destina-se a criar um sistema de gerenciamento de frotas de veículos para atender às necessidades do Serviço Nacional de Aprendizagem Industrial (SENAI-MT) .
 O sistema permitirá o gerenciamento de perfis de usuários, cada um com funções específicas, divididas entre atendente, motorista, supervisor e administrador geral. Cada perfil terá acesso a funcionalidades específicas, possibilitando uma administração organizada e eficaz dos veículos e das operações associadas.
@@ -9,8 +9,7 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 3. [Estrutura do Projeto](#estrutura-do-projeto)
 4. [Funcionalidades](#funcionalidades)
 5. [Contribuições](#contribuições)
-6. [Licença](#licença)
-
+6. [Autores](#autores)
 
 ## Instalação
 
