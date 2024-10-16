@@ -9,7 +9,9 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 3. [Funcionalidades](#funcionalidades)
 4. [Estrutura do Projeto](#estrutura-do-projeto)
 5. [Tecnologias Utilizadas](#tecnologias-utilizadas)
-6. [Autores](#autores)
+6. [Protótipo no Figma](#prototipo-no-figma)
+7. [Ferramentas Auxiliares](#ferramentas-auxiliares)
+8. [Autores](#autores)
 
 ## Instalação
 
@@ -95,6 +97,14 @@ O sistema permitirá o gerenciamento de perfis de usuários, cada um com funçõ
 - Typescript
 - Figma
 - MySql
+
+## Protótipo no Figma
+-[Protótipo no figma](https://www.figma.com/proto/4GZ34XAvTpw36hnP2UmwB6/Gest%C3%A3o-de-Frotas?node-id=117-220&node-type=frame&t=PozSh0JgdaPMrNxM-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=115%3A2)
+
+## Ferramentas Auxiliares
+Abaixo estão listadas as ferramentas que auxiliam no desenvolvimento do projeto:
+- Trello
+- Organização de arquivos com Notion
 
 
 ## Autores
